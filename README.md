@@ -16,7 +16,7 @@ I’m looking to collaborate on projects related to:
 
 ## 📫 How to reach me ...
 Feel free to reach out to me via:
-- **Email**: deinhdavies@gmail.com
+- **Email**: daviesdeinh@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/dein-davies-b4694769/
 <!---
 DHDavies/DHDavies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
